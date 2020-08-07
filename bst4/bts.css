@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.navbar ul li {
+    font-size: 1.2rem;
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+}
+
+a.nav-link {
+    padding: 1.5rem!important;
+}
+
+.dropdown-menu.show {
+    min-width: 22.5rem!important;
+}
